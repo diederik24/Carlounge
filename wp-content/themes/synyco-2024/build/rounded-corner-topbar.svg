@@ -1,0 +1,11 @@
+<svg id="uuid-f908c1a7-b37f-410b-8f3c-ba2ca40c9014" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="20.5" height="20.5" viewBox="0 0 20.5 20.5">
+  <defs>
+    <style>
+      .svg-fill {
+        fill: #f3f5f6;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="svg-fill" d="M20.5.5C9.46.5.5,9.45.5,20.5h-.5V0h20.5v.5Z"/>
+</svg>
